@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Pulumi deploy
+*.pyc
+venv/
